@@ -16,6 +16,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="EVSpeedControl.ino" />
+    <None Include="SpeedPIDControl.ino" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="__vm\.EVSpeedControl.vsarduino.h">
